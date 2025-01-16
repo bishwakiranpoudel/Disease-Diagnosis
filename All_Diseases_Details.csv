@@ -1,0 +1,4 @@
+Disease,Description,Precautions,Medication,Diet Plan,Workout
+Fungal infection,Fungal infections are caused by fungi.,"[['Keep area dry', 'Use antifungal cream', 'Wear clean clothes', 'Avoid sharing items']]",['Antifungal medication'],['Low sugar diet'],['Gentle stretching']
+Allergy,Allergy occurs due to immune response.,"[['Avoid allergens', 'Carry antihistamines', 'Consult doctor', 'Monitor symptoms']]",['Antihistamines'],['Anti-inflammatory foods'],['Yoga']
+GERD,GERD is a chronic digestive disease.,"[['Eat smaller meals', 'Avoid spicy food', 'Sleep upright', 'Stay hydrated']]",['Proton pump inhibitors'],['Low acidic foods'],['Walking after meals']
